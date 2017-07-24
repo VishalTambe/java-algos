@@ -1,4 +1,4 @@
-package com.test.collection;
+package com.vish.algorithm;
 
 import java.lang.reflect.Field;
 
